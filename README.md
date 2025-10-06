@@ -1,1 +1,1 @@
-Just parser in Java :)
+Just a parser in Java :)
